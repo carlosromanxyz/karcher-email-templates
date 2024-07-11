@@ -5,7 +5,7 @@
             align="center"
             font-size="18px"
             font-weight="700"
-            font-family="Clan Pro">
+            font-family="Clan Pro, Arial">
                 Conoce sus nuevas ventajas
             </mj-text>
         </mj-column>
@@ -13,64 +13,62 @@
     
     <mj-section>
         <!-- Left Column -->
-        <mj-column>
-            <mj-image padding="0" fluid-on-mobile="true" padding-bottom="10px" src="https://place-hold.it/287x104" css-class="advantage-image-left" />
+        <mj-column width="287px" css-class="advantage-left">
+            <mj-image padding="0" fluid-on-mobile="true" padding-bottom="10px" src="images/advantage-1.png" css-class="advantage-image-left" />
             <mj-text
             font-size="12px"
             line-height="15px"
-            font-family="Clan Pro"
+            font-family="Clan Pro, Arial"
             padding="0"
             align="justify"
-            padding-bottom="5px"
+            padding-bottom="20px"
             css-class="advantage-text-left">
                 Limpia inteligentemente los espacios que desees en tu hogar, ya que con su automatización               inteligente puede mapear tu hogar y evitar todos los obstáculos. 
             </mj-text>
         </mj-column>
 
         <!-- Right Column -->
-        <mj-column>
-            <mj-image padding="0"  fluid-on-mobile="true" padding-bottom="10px" src="https://place-hold.it/287x104" css-class="advantage-image-right" />
+        <mj-column width="287px" css-class="advantage-right">
+            <mj-image padding="0" fluid-on-mobile="true" padding-bottom="10px" src="images/advantage-2.png" css-class="advantage-image-left" />
             <mj-text
-            font-family="Clan Pro"
             font-size="12px"
             line-height="15px"
+            font-family="Clan Pro, Arial"
             padding="0"
             align="justify"
-            padding-bottom="5px"
-            css-class="advantage-text-right">
-                Limpia inteligentemente los espacios que desees en tu hogar, ya que con su automatización               inteligente puede mapear tu hogar y evitar todos los obstáculos. 
+            padding-bottom="20px"
+            css-class="advantage-text-left">
+                Controla tu limpieza desde su aplicación Home Robots para realizar el mapeo inicial de tu hogar, programar tu limpieza y controlar su aspirado desde donde estés.
             </mj-text>
         </mj-column>
-    </mj-section>
-    
-    <mj-section>
+
         <!-- Left Column -->
-        <mj-column>
-            <mj-image padding="0" fluid-on-mobile="true" padding-bottom="10px" src="https://place-hold.it/287x104" css-class="advantage-image-left" />
+        <mj-column width="287px" css-class="advantage-left">
+            <mj-image padding="0" fluid-on-mobile="true" padding-bottom="10px" src="images/advantage-3.png" css-class="advantage-image-left" />
             <mj-text
             font-size="12px"
             line-height="15px"
-            font-family="Clan Pro"
+            font-family="Clan Pro, Arial"
             padding="0"
             align="justify"
-            padding-bottom="5px"
+            padding-bottom="20px"
             css-class="advantage-text-left">
-                Limpia inteligentemente los espacios que desees en tu hogar, ya que con su automatización               inteligente puede mapear tu hogar y evitar todos los obstáculos. 
+                Programa tu limpieza en cualquier momento del día aunque no estés en tu hogar, para    limpiar en horarios específicos o la hora que más lo necesites.
             </mj-text>
         </mj-column>
 
         <!-- Right Column -->
-        <mj-column>
-            <mj-image padding="0"    fluid-on-mobile="true" padding-bottom="10px" src="https://place-hold.it/287x104" css-class="advantage-image-right" />
+        <mj-column width="287px" css-class="advantage-right">
+            <mj-image padding="0" fluid-on-mobile="true" padding-bottom="10px" src="images/advantage-4.png" css-class="advantage-image-left" />
             <mj-text
-            font-family="Clan Pro"
             font-size="12px"
             line-height="15px"
+            font-family="Clan Pro, Arial"
             padding="0"
             align="justify"
-            padding-bottom="5px"
-            css-class="advantage-text-right">
-                Limpia inteligentemente los espacios que desees en tu hogar, ya que con su automatización               inteligente puede mapear tu hogar y evitar todos los obstáculos. 
+            padding-bottom="20px"
+            css-class="advantage-text-left">
+                Realiza limpieza en seco y húmedo usando su accesorio trapeador para limpiar suelos duros de manera rápida y eficiente.  
             </mj-text>
         </mj-column>
     </mj-section>

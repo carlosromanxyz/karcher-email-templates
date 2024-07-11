@@ -8,38 +8,17 @@
           background-position: 30% center;
           background-size: 7%;
         }
+        .unsubscribe a {
+          color: #eac800;
+        }
         @media screen and (min-width: 768px) {
-          .advantage-image-left,
-          .advantage-text-left {
-            border-right: 13px solid white;
+          .advantage-left,
+          .shop-left {
+            padding-right: 13px;
           }
-          .advantage-image-right,
-          .advantage-text-right {
-            border-left: 13px solid white;
-          }
-          .shop-column-left {
-            position: relative;
-          }
-          .shop-column-left:after {
-            content: "";
-            width: 13px;
-            height: 100%;
-            top: 0;
-            right: 0;
-            background-color: #fff;
-            position: absolute;
-          }
-          .shop-column-right {
-            position: relative;
-          }
-          .shop-column-right:before {
-            content: "";
-            width: 13px;
-            height: 100%;
-            top: 0;
-            left: 0;
-            background-color: #fff;
-            position: absolute;
+          .advantage-right,
+          .shop-right {
+            padding-left: 13px;
           }
           .whatsapp-shop-number {
             background-position: 25% center;
