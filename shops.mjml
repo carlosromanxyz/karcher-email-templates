@@ -1,0 +1,62 @@
+<mj-section padding="0" background-color="#fff">
+    <mj-column width="100%" padding-bottom="10px">
+        <mj-text
+        font-family="Clan Pro"
+        font-weight="500"
+        font-size="15px"
+        align="center">
+            Visítanos en nuestras tiendas Karcher Center y míralo por ti mismo. 
+        </mj-text>
+    </mj-column>
+    <mj-column width="50%" padding="10px 0" background-color="#fff000" css-class="shop-column-left">
+        <mj-button
+            href="https://mjml.io/"
+            align="center"
+            background-color="#238C9E"
+            font-family="Clan Pro"
+            font-weight="700"
+            font-size="10px"
+            padding="9px 0">
+            TIENDA SANTIAGO
+        </mj-button>
+        <mj-text
+            align="center"
+            font-family="Clan Pro">
+            Av. Irarrázaval 259, Ñuñoa.
+        </mj-text>
+        <mj-text
+            align="center"
+            font-family="Clan Pro"
+            padding-left="50px"
+            css-class="whatsapp-shop-number">
+            +56 9 5380 4396
+        </mj-text>
+    </mj-column>
+    <mj-column width="50%" padding="10px 0" background-color="#fff000" css-class="shop-column-right">
+        <mj-button
+            href="https://mjml.io/"
+            align="center"
+            background-color="#238C9E"
+            font-family="Clan Pro"
+            font-weight="700"
+            font-size="10px"
+            padding="9px 0">
+            TIENDA LAS CONDES
+        </mj-button>
+        <mj-text
+            align="center"
+            font-family="Clan Pro">
+            Av. Las Condes 9050, Las Condes.
+        </mj-text>
+        <mj-text
+            align="center"
+            font-family="Clan Pro"
+            padding-left="50px"
+            css-class="whatsapp-shop-number">
+            +56 9 9409 8699
+        </mj-text>
+    </mj-column>
+    <mj-column width="100%">
+        <mj-spacer height="20px" />
+    </mj-column>
+</mj-section>
