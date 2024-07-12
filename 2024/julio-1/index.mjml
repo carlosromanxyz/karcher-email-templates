@@ -26,7 +26,7 @@
         }
      </mj-style>
   </mj-head>
-  <mj-body background-color="#525252">
+  <mj-body background-color="white">
     <mj-include path="header.mjml" />
     <mj-include path="hero.mjml" />
     <mj-include path="advantages.mjml" />

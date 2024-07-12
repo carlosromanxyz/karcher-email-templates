@@ -1,16 +1,4 @@
-<mj-wrapper background-color="white">
-    <mj-section>
-        <mj-column>
-            <mj-text
-            align="center"
-            font-size="18px"
-            font-weight="700"
-            font-family="Clan Pro, Arial">
-                Conoce sus nuevas ventajas
-            </mj-text>
-        </mj-column>
-    </mj-section>
-    
+<mj-wrapper padding-top="0" padding-bottom="0" background-color="white">
     <mj-section>
         <!-- Left Column -->
         <mj-column width="287px" css-class="advantage-left">
@@ -21,7 +9,7 @@
             font-family="Clan Pro, Arial"
             padding="0"
             align="justify"
-            padding-bottom="20px"
+            padding-bottom="10px"
             css-class="advantage-text-left">
                 Limpia inteligentemente los espacios que desees en tu hogar, ya que con su automatización               inteligente puede mapear tu hogar y evitar todos los obstáculos. 
             </mj-text>
@@ -36,7 +24,7 @@
             font-family="Clan Pro, Arial"
             padding="0"
             align="justify"
-            padding-bottom="20px"
+            padding-bottom="10px"
             css-class="advantage-text-left">
                 Controla tu limpieza desde su aplicación Home Robots para realizar el mapeo inicial de tu hogar, programar tu limpieza y controlar su aspirado desde donde estés.
             </mj-text>
@@ -51,7 +39,6 @@
             font-family="Clan Pro, Arial"
             padding="0"
             align="justify"
-            padding-bottom="20px"
             css-class="advantage-text-left">
                 Programa tu limpieza en cualquier momento del día aunque no estés en tu hogar, para    limpiar en horarios específicos o la hora que más lo necesites.
             </mj-text>
@@ -66,7 +53,6 @@
             font-family="Clan Pro, Arial"
             padding="0"
             align="justify"
-            padding-bottom="20px"
             css-class="advantage-text-left">
                 Realiza limpieza en seco y húmedo usando su accesorio trapeador para limpiar suelos duros de manera rápida y eficiente.  
             </mj-text>
