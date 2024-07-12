@@ -1,0 +1,41 @@
+<mj-section background-color="#ededed">
+    <mj-column width="100%" padding="0" padding-bottom="5px">
+        <mj-text
+        font-weight="bold"
+        color="#000"
+        font-size="18px"
+        font-family="Clan Pro, Arial">
+            KARCHER CHILE
+        </mj-text>
+    </mj-column>
+    <mj-column width="100%">
+        <mj-text
+        line-height="17px"
+        font-family="Clan Pro, Arial">
+            Av. Los Libertadores 16.500 lote 1-a-1
+            <br>
+            Colina, Santiago, Chile
+            <br>
+            CP. 9340000
+            <br>
+            Tel. +56 223806100
+            <br>
+            E-mail: <a href="mailto:atencionalcliente.cl@karcher.com" style="color: #eac800;">atencionalcliente.cl@karcher.com</a>
+        </mj-text>
+    </mj-column>
+    <mj-column width="100%">
+        <mj-social align="left" font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element name="facebook" href="https://www.facebook.com/karcherchile/" />
+          <mj-social-element name="instagram" href="https://www.instagram.com/karchercl/" />
+          <mj-social-element name="youtube" href="https://www.youtube.com/@karcher_chile" />
+          <mj-social-element name="linkedin" href="https://www.linkedin.com/company/karcherchile/" />
+        </mj-social>
+    </mj-column>
+    <mj-column width="100%" css-class="unsubscribe">
+        <mj-text
+        line-height="17px"
+        font-family="Clan Pro, Arial">
+            Si no quieres recibir más estos correos, haz click aquí para {% unsubscribe 'desuscribirse' %}.
+        </mj-text>
+    </mj-column>
+</mj-section>

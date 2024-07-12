@@ -1,0 +1,29 @@
+<!-- Hero section-->
+<mj-hero
+    mode="fixed-height"
+    height="220px"
+    background-width="600px"
+    background-height="220px"
+    background-url="images/bg-hero.png"
+    background-color="#2a3448"
+    padding="20px 0px">
+    <mj-text
+        color="#ffffff"
+        font-family="Clan Pro, Arial"
+        align="left"
+        font-size="34px"
+        font-weight="600"
+        padding-right="40%"
+        text-transform="uppercase">
+        NUEVA ASPIRADORA ROBOT RCV3 <br> ¡ya está aquí!
+    </mj-text>
+    <mj-button
+        href="https://www.karcherstore.cl/aspiradora-robot-rcv3/p"
+        align="left"
+        background-color="#238C9E"
+        font-family="Clan Pro, Arial"
+        font-weight="700"
+        font-size="12px">
+        VER PRODUCTO
+    </mj-button>
+</mj-hero>
