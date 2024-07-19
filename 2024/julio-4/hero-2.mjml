@@ -1,0 +1,30 @@
+<!-- Hero section-->
+<mj-hero
+    background-url="images/bg-hero-2.png"
+    background-color="#fff000"
+    background-width="600px"
+    padding="20px 0px">
+    <mj-text
+        color="#000"
+        font-family="Clan Pro, Arial"
+        align="left"
+        font-size="29px"
+        font-weight="600"
+        padding-right="34%"
+        text-transform="uppercase"
+        padding-bottom="0px"
+        line-height="32px"
+        text-transform="uppercase">
+        PREPÁRATE PORQUE SE VIENEN LOS MEJORES DESCUENTOS <br> #YellowWeek
+    </mj-text>
+    <mj-button
+        href="https://www.karcherstore.cl/"
+        align="left"
+        background-color="#238C9E"
+        font-family="Clan Pro, Arial"
+        font-weight="500"
+        font-size="12px"
+        text-transform="uppercase">
+        22 al 29 de Julio
+    </mj-button>
+</mj-hero>
