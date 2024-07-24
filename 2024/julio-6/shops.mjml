@@ -1,0 +1,65 @@
+<mj-section padding="0" background-color="#fff">
+    <mj-column width="287px" padding="10px 0" background-color="#fff000" css-class="shop-left">
+        <mj-text
+        font-weight="600"
+        color="#000"
+        font-size="15px"
+        align="center"
+        padding-bottom="0"
+        font-family="Clan Pro, Arial">
+            Tienda Santiago
+        </mj-text>
+        <mj-text
+        font-weight="400"
+        color="#000"
+        font-size="14px"
+        align="center"
+        font-family="Clan Pro, Arial">
+            Av. Irarrázaval 259, Ñuñoa.
+        </mj-text>
+        <mj-button
+            href="https://www.google.com/maps/place/Av.+Irarr%C3%A1zaval+259,+7750491+%C3%91u%C3%B1oa,+Regi%C3%B3n+Metropolitana/@-33.4524914,-70.6280765,17z/data=!4m15!1m8!3m7!1s0x9662c57b56d37a4d:0xf795bc244c5c55a5!2sAv.+Irarr%C3%A1zaval+259,+7750491+%C3%91u%C3%B1oa,+Regi%C3%B3n+Metropolitana!3b1!8m2!3d-33.4526808!4d-70.6279911!16s%2Fg%2F11pyj6xv35!3m5!1s0x9662c57b56d37a4d:0xf795bc244c5c55a5!8m2!3d-33.4526808!4d-70.6279911!16s%2Fg%2F11pyj6xv35?entry=ttu"
+            align="center"
+            background-color="#238C9E"
+            font-family="Clan Pro, Arial"
+            font-weight="700"
+            font-size="10px"
+            padding="9px 0"
+            text-transform="uppercase">
+            Cómo llegar
+        </mj-button>
+    </mj-column>
+    <mj-column width="287px" padding="10px 0" background-color="#fff000" css-class="shop-right">
+        <mj-text
+        font-weight="600"
+        color="#000"
+        font-size="15px"
+        align="center"
+        padding-bottom="0"
+        font-family="Clan Pro, Arial">
+            Tienda Las Condes
+        </mj-text>
+        <mj-text
+        font-weight="400"
+        color="#000"
+        font-size="14px"
+        align="center"
+        font-family="Clan Pro, Arial">
+            Av. Las Condes 9050, Las Condes.
+        </mj-text>
+        <mj-button
+            href="https://maps.app.goo.gl/r78s4jcGxhBL6nPEA"
+            align="center"
+            background-color="#238C9E"
+            font-family="Clan Pro, Arial"
+            font-weight="700"
+            font-size="10px"
+            padding="9px 0"
+            text-transform="uppercase">
+            Cómo llegar
+        </mj-button>
+    </mj-column>
+    <mj-column width="100%">
+        <mj-spacer height="20px" />
+    </mj-column>
+</mj-section>
