@@ -1,0 +1,52 @@
+<!-- Hero section-->
+<mj-hero
+    mode="fixed-height"
+    height="240px"
+    background-width="600px"
+    background-height="240px"
+    background-url="images/bg-hero.png"
+    background-color="#fff000"
+    padding="60px 0px">
+    <mj-text
+        color="#000"
+        font-family="Clan Pro, Arial"
+        align="left"
+        font-size="15px"
+        padding-bottom="0px"
+        font-weight="600"
+        text-transform="uppercase">
+        ¡Ya se acaba! Aprovecha el último día de
+    </mj-text>
+    <mj-text
+        color="#000"
+        font-family="Clan Pro, Arial"
+        align="left"
+        font-size="32px"
+        font-weight="600"
+        text-transform="uppercase"
+        padding-bottom="0px"
+        line-height="38px">
+        ¡Yellow
+    </mj-text>
+    <mj-text
+        color="#000"
+        font-family="Clan Pro, Arial"
+        align="left"
+        font-size="58px"
+        font-weight="600"
+        text-transform="uppercase"
+        padding-bottom="0px"
+        line-height="38px">
+        week!
+    </mj-text>
+    <mj-button
+        href="https://www.karcherstore.cl/promociones"
+        align="left"
+        background-color="#238C9E"
+        font-family="Clan Pro, Arial"
+        font-weight="700"
+        font-size="12px"
+        text-transform="uppercase">
+        Ver ofertas
+    </mj-button>
+</mj-hero>
