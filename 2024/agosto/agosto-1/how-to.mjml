@@ -1,0 +1,74 @@
+<mj-section padding="0">
+    <mj-column width="100%">
+        <mj-spacer height="30px" />
+    </mj-column>
+</mj-section>
+
+<mj-section padding="20px 0 0 0" background-color="#fff000">
+    <mj-column width="100%">
+        <mj-text
+            font-family="Clan Pro, Arial"
+            font-size="21px"
+            align="center"
+            font-weight="500"
+        >
+            ¿Cómo comprar en nuestra web?
+        </mj-text>
+    </mj-column>
+</mj-section>
+
+<mj-section padding="0 0 20px 0" background-color="#fff000">
+    <mj-column>
+        <mj-image width="70px" src="images/how-to-1.png" />
+        <mj-text
+            font-family="Clan Pro, Arial"
+            font-size="9px"
+            align="center"
+            font-weight="400"
+            line-height="13px"
+        >
+            Ingresa a <br> www.karcherstore.cl
+        </mj-text>
+    </mj-column>
+    <mj-column>
+        <mj-image width="70px" src="images/how-to-2.png" />
+        <mj-text
+            font-family="Clan Pro, Arial"
+            font-size="9px"
+            align="center"
+            font-weight="400"
+        >
+            Entra a tu cuenta
+        </mj-text>
+    </mj-column>
+    <mj-column>
+        <mj-image width="70px" src="images/how-to-3.png" />
+        <mj-text
+            font-family="Clan Pro, Arial"
+            font-size="9px"
+            align="center"
+            font-weight="400"
+            line-height="13px"
+        >
+            Agrega tus productos <br> al carrito de compra
+        </mj-text>
+    </mj-column>
+    <mj-column>
+        <mj-image width="70px" src="images/how-to-4.png" />
+        <mj-text
+            font-family="Clan Pro, Arial"
+            font-size="9px"
+            align="center"
+            font-weight="400"
+            line-height="13px"
+        >
+            Finaliza tu compra
+        </mj-text>
+    </mj-column>
+</mj-section>
+
+<mj-section padding="0">
+    <mj-column width="100%">
+        <mj-spacer height="30px" />
+    </mj-column>
+</mj-section>

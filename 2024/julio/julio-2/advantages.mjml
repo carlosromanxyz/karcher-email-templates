@@ -1,0 +1,80 @@
+<mj-wrapper padding="0" background-color="white">
+    <mj-section>
+        <mj-column>
+            <mj-text
+            align="center"
+            font-size="18px"
+            font-weight="700"
+            font-family="Clan Pro, Arial">
+                ¿Catlover o Doglover?
+            </mj-text>
+            <mj-text
+            align="center"
+            font-size="14px"
+            font-weight="400"
+            font-family="Clan Pro, Arial">
+                Nosotros somos Cleanlover y seremos tu mejor amigo en la limpieza este invierno.
+            </mj-text>
+        </mj-column>
+    </mj-section>
+    
+    <mj-section>
+        <!-- Left Column -->
+        <mj-column width="287px" css-class="advantage-left">
+            <mj-image padding="0" fluid-on-mobile="true" padding-bottom="10px" src="images/advantage-1.png" css-class="advantage-image-left" />
+            <mj-text
+            font-size="12px"
+            line-height="15px"
+            font-family="Clan Pro, Arial"
+            padding="0"
+            align="justify"
+            padding-bottom="20px"
+            css-class="advantage-text-left">
+                Aburrid@ de los pelos en tu piso o alfombra y no tienes tiempo. Tenemos la solución, una escoba eléctrica, ahorra tiempo y sin usar pala.
+            </mj-text>
+        </mj-column>
+
+        <!-- Right Column -->
+        <mj-column width="287px" css-class="advantage-right">
+            <mj-image padding="0" fluid-on-mobile="true" padding-bottom="10px" src="images/advantage-2.png" css-class="advantage-image-left" />
+            <mj-text
+            font-size="12px"
+            line-height="15px"
+            font-family="Clan Pro, Arial"
+            padding="0"
+            align="justify"
+            padding-bottom="20px"
+            css-class="advantage-text-left">
+                ¿Te cuesta mantener limpia la cama de tu mascota? Usa una aspiradora de mano con cepilllo de esta forma podrás remover todos los pelos fácilmente, te recomendamos una aspiradora 2 en 1 que puedes usarla manual o vertical.
+            </mj-text>
+        </mj-column>
+
+        <!-- Left Column -->
+        <mj-column width="287px" css-class="advantage-left">
+            <mj-image padding="0" fluid-on-mobile="true" padding-bottom="10px" src="images/advantage-3.png" css-class="advantage-image-left" />
+            <mj-text
+            font-size="12px"
+            line-height="15px"
+            font-family="Clan Pro, Arial"
+            padding="0"
+            align="justify"
+            css-class="advantage-text-left">
+                Tienes tu casa llena de huellas, baba y otras manchas, pero no quieres aplicar químicos. Te recomendamos el vapor, es una solución ecológica, sólo agua, libre de químicos y fácil de aplicar sobre todo tipo de superficies. De esta forma cuidas a tu familia y a ti.
+            </mj-text>
+        </mj-column>
+
+        <!-- Right Column -->
+        <mj-column width="287px" css-class="advantage-right">
+            <mj-image padding="0" fluid-on-mobile="true" padding-bottom="10px" src="images/advantage-4.png" css-class="advantage-image-left" />
+            <mj-text
+            font-size="12px"
+            line-height="15px"
+            font-family="Clan Pro, Arial"
+            padding="0"
+            align="justify"
+            css-class="advantage-text-left">
+                Deja la mopa y el balde en el pasado, existe una solución práctica para las familias de hoy. La fregadora de pisos, sin esfuerzo limpia tus pisos sin dejar charcos de agua, ni trasportar agua de un lado a otro. ¡Simplifica tu vida con Karcher!
+            </mj-text>
+        </mj-column>
+    </mj-section>
+</mj-wrapper>

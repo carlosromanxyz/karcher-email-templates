@@ -1,0 +1,13 @@
+<mj-section padding="0">
+    <mj-column padding="3.8% 0" background-color="#fff000">
+        <mj-text
+        font-family="Clan Pro"
+        font-size="17px"
+        font-weight="700">
+            SI NECESITAS UNA ASESORÍA O QUIERES PROBAR ALGUNO DE NUESTROS PRODUCTOS, ¡TE ESPERAMOS EN NUESTRAS TIENDAS KARCHER CENTER!
+        </mj-text>
+    </mj-column>
+    <mj-column>
+        <mj-image src="images/try-1.png" padding="0" />
+    </mj-column>
+</mj-section>

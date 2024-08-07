@@ -1,6 +1,0 @@
-<!-- header.mjml -->
-<mj-section background-color="#FFF" padding="40px 0">
-  <mj-column>
-    <mj-image width="203px" src="images/logo.png" alt="Bienvenid@s a Karcher Chile" />
-  </mj-column>
-</mj-section>

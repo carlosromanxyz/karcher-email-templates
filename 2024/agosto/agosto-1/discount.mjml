@@ -1,0 +1,40 @@
+<mj-hero
+    mode="fixed-height"
+    height="220px"
+    background-width="600px"
+    background-height="220px"
+    background-url="images/bg-discount.png"
+    background-color="#fff000"
+    padding="20px 0px"
+>
+    <mj-text
+        color="#000"
+        font-family="Clan Pro, Arial"
+        align="left"
+        font-size="54px"
+        font-weight="600"
+        text-transform="uppercase"
+        padding-bottom="0px"
+        line-height="50px"
+    >
+        Tu mascota <br> es tu descuento
+    </mj-text>
+    <mj-image
+        fluid-on-mobile="true"
+        width="480px"
+        align="left"
+        src="images/img-discount.png"
+        href="https://www.karcherstore.cl/"
+    />
+    <mj-text
+        color="#000"
+        font-family="Clan Pro, Arial"
+        align="left"
+        font-size="7px"
+        font-weight="500"
+        padding-bottom="0px"
+        line-height="10px"
+    >
+        *Promoción válida del 08/08/2024 al 10/08/2024. El 20% de descuento de forma presencial en nuestros Karcher Center Las Condes <br> y Santiago en la línea hogar. No acumulable con otras promociones vigentes.
+    </mj-text>
+</mj-hero>

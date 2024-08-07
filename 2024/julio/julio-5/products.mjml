@@ -1,0 +1,80 @@
+<mj-section padding="0">
+    <mj-column padding="15px 0" width="100%" background-color="#fff">
+        <mj-text
+        font-family="Clan Pro"
+        font-size="15px"
+        font-weight="500"
+        align="center"
+        line-height="20px">
+            Esta es la oportunidad para comprar el producto que necesitas para la limpieza de tu hogar, ¡con el descuento que estabas esperando!
+        </mj-text>
+    </mj-column>
+</mj-section>
+<mj-section padding="0">
+    <mj-column padding="10px 0" background-color="#fff">
+        <mj-image src="images/product-1.png" alt="Aspiradora VCL 3" />
+        <mj-text
+        font-family="Clan Pro"
+        font-size="14px"
+        font-weight="700"
+        align="center"
+        line-height="20px"
+        padding-bottom="0">
+            Fregadora <br> FC5
+        </mj-text>
+        <mj-button
+        background-color="#fff000"
+        color="#000"
+        font-family="Clan Pro"
+        text-transform="uppercase"
+        font-weight="700"
+        font-size="10px"
+        href="https://www.karcherstore.cl/fregadora-de-pisos-fc5/p">
+            Compra aquí
+        </mj-button>
+    </mj-column>
+    <mj-column padding="10px 0" background-color="#fff">
+        <mj-image src="images/product-2.png" alt="Aspiradora VCL 3" />
+        <mj-text
+        font-family="Clan Pro"
+        font-size="14px"
+        font-weight="700"
+        align="center"
+        line-height="20px"
+        padding-bottom="0">
+            Hidrolavadora <br> K2 Dakar
+        </mj-text>
+        <mj-button
+        background-color="#fff000"
+        color="#000"
+        font-family="Clan Pro"
+        text-transform="uppercase"
+        font-weight="700"
+        font-size="10px"
+        href="https://www.karcherstore.cl/hidrolavadora-k2-dakar/p">
+            Compra aquí
+        </mj-button>
+    </mj-column>
+    <mj-column padding="10px 0" background-color="#fff">
+        <mj-image src="images/product-3.png" alt="Aspiradora VCL 3" />
+        <mj-text
+        font-family="Clan Pro"
+        font-size="14px"
+        font-weight="700"
+        align="center"
+        line-height="20px"
+        padding-bottom="0">
+            Aspiradora <br> VC4
+        </mj-text>
+        <mj-button
+        background-color="#fff000"
+        color="#000"
+        font-family="Clan Pro"
+        text-transform="uppercase"
+        font-weight="700"
+        font-size="10px"
+        href="https://www.karcherstore.cl/vc4-sin-cable-myhome/p">
+            Compra aquí
+        </mj-button>
+    </mj-column>
+</mj-section>

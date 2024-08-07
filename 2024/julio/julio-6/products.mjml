@@ -1,0 +1,80 @@
+<mj-section padding="0">
+    <mj-column padding="15px 0" width="100%" background-color="#fff">
+        <mj-text
+        font-family="Clan Pro, Arial"
+        font-size="15px"
+        font-weight="500"
+        align="center"
+        line-height="20px">
+            Es tu momento de comprar el producto que quieres con un descuento único y con envío directo a tu hogar, ¿Qué mejor?
+        </mj-text>
+    </mj-column>
+</mj-section>
+<mj-section padding="0">
+    <mj-column padding="10px 0" background-color="#fff">
+        <mj-image src="images/product-1.png" alt="Aspiradora VCL 3" />
+        <mj-text
+        font-family="Clan Pro"
+        font-size="14px"
+        font-weight="700"
+        align="center"
+        line-height="20px"
+        padding-bottom="0">
+            Hidrolavadora <br> K3100 Black
+        </mj-text>
+        <mj-button
+        background-color="#fff000"
+        color="#000"
+        font-family="Clan Pro"
+        text-transform="uppercase"
+        font-weight="700"
+        font-size="10px"
+        href="https://www.karcherstore.cl/hidrolavadora-k3-100-black-/p">
+            Compra aquí
+        </mj-button>
+    </mj-column>
+    <mj-column padding="10px 0" background-color="#fff">
+        <mj-image src="images/product-2.png" alt="Aspiradora VCL 3" />
+        <mj-text
+        font-family="Clan Pro"
+        font-size="14px"
+        font-weight="700"
+        align="center"
+        line-height="20px"
+        padding-bottom="0">
+            Hidrolavadora <br> K2 Dakar
+        </mj-text>
+        <mj-button
+        background-color="#fff000"
+        color="#000"
+        font-family="Clan Pro"
+        text-transform="uppercase"
+        font-weight="700"
+        font-size="10px"
+        href="https://www.karcherstore.cl/hidrolavadora-k2-dakar/p">
+            Compra aquí
+        </mj-button>
+    </mj-column>
+    <mj-column padding="10px 0" background-color="#fff">
+        <mj-image src="images/product-3.png" alt="Aspiradora VCL 3" />
+        <mj-text
+        font-family="Clan Pro"
+        font-size="14px"
+        font-weight="700"
+        align="center"
+        line-height="20px"
+        padding-bottom="0">
+            Hidrolavadora <br> HD 4/8
+        </mj-text>
+        <mj-button
+        background-color="#fff000"
+        color="#000"
+        font-family="Clan Pro"
+        text-transform="uppercase"
+        font-weight="700"
+        font-size="10px"
+        href="https://www.karcherstore.cl/hidrolavadora-hd-4-8-classic-kap-/p">
+            Compra aquí
+        </mj-button>
+    </mj-column>
+</mj-section>
